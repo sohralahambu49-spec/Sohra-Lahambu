@@ -1,0 +1,7 @@
+{
+  "name": "SMAN 1 TOJO - Graduation Portal 2026",
+  "description": "A futuristic and elegant graduation announcement portal for the Class of 2026 at SMAN 1 Tojo, featuring AI-powered personalized messages and high-fidelity UI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
